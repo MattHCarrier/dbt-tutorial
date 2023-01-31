@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="dbtworkshop@dbtredshiftcluster-fwtxvibz7w7u.chepstq8nnnq.us-west-2.redshift.amazonaws.com" uuid="34f54e79-9668-4d01-8609-b23ac21ce714">
+      <driver-ref>redshift</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.amazon.redshift.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:redshift://dbtredshiftcluster-fwtxvibz7w7u.chepstq8nnnq.us-west-2.redshift.amazonaws.com:5439/dbtworkshop</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
